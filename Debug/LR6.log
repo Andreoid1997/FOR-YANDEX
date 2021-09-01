@@ -1,0 +1,28 @@
+﻿  first.cpp
+C:\Users\Андрей\Downloads\first.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Андрей\Downloads\first.cpp(18,65): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+C:\Users\Андрей\Downloads\first.cpp(18,105): warning C4305: инициализация: усечение из "__int64" в "long"
+C:\Users\Андрей\Downloads\first.cpp(18,65): warning C4309: инициализация: усечение константного значения
+C:\Users\Андрей\Downloads\first.cpp(18,105): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Андрей\Downloads\first.cpp(43,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\Андрей\Downloads\first.cpp(55,12): warning C4566: символ, представленный универсальным именем символа "\u00E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Андрей\Downloads\first.cpp(61,13): warning C4566: символ, представленный универсальным именем символа "\u00E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Андрей\Downloads\first.cpp(68,4): warning C4566: символ, представленный универсальным именем символа "\u00E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Андрей\Downloads\first.cpp(66,49): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+C:\Users\Андрей\Downloads\first.cpp(77,2): warning C4305: инициализация: усечение из "__int64" в "long"
+C:\Users\Андрей\Downloads\first.cpp(66,49): warning C4309: инициализация: усечение константного значения
+C:\Users\Андрей\Downloads\first.cpp(77,2): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Андрей\Downloads\first.cpp(72,71): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+C:\Users\Андрей\Downloads\first.cpp(72,71): warning C4309: инициализация: усечение константного значения
+C:\Users\Андрей\Downloads\first.cpp(75,68): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+C:\Users\Андрей\Downloads\first.cpp(75,68): warning C4309: инициализация: усечение константного значения
+C:\Users\Андрей\Downloads\first.cpp(102,13): warning C4566: символ, представленный универсальным именем символа "\u00E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Андрей\Downloads\first.cpp(103,95): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Андрей\Downloads\first.cpp(115,13): warning C4566: символ, представленный универсальным именем символа "\u00E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Андрей\Downloads\first.cpp(116,95): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Андрей\Downloads\first.cpp(114,7): warning C4101: pC4: неиспользованная локальная переменная
+C:\Users\Андрей\Downloads\first.cpp(101,7): warning C4101: pC3: неиспользованная локальная переменная
+C:\Users\Андрей\Downloads\first.cpp(87,7): warning C4101: pC1: неиспользованная локальная переменная
+  second.cpp
+  Создание кода...
+  LR6.vcxproj -> C:\Users\Андрей\source\repos\LR6\Debug\LR6.exe
